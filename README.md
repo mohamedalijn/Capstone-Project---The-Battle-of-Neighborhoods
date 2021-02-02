@@ -23,7 +23,7 @@ Clearly that's not easy, though, since every year thousands of restaurants fail.
 In this case study we will help investors, entropreneur and business owners choose the best location to open an Italian Restaurant in New York. We will use Data Science methodology to analyse and visualize Data to find the best successful location and answer the question: Wich neighborhoods are best to open an Italian Restaurant in New York?
 
 # Description of the data and how it will be used to solve the problem.
-## What we will nedd to resolve this business Porblem
+## What we will need to resolve this business Porblem
 ### New York City Data : neighborhoods, boroughs, latitude, longitude, restaurants
 ### Data source: https://cocl.us/new_york_dataset
 ### FourSquare API utilized via the Request library in Python.
@@ -40,6 +40,6 @@ Where can Customers go in New York City to eat Best Italian foods?
 
 .
 
-# This notebook was created by Mohamed ALi J
+### This notebook was created by Mohamed ALi J
 
-# This notebook is part of Coursera Applied Data Science Capstone.
+### This notebook is part of Coursera Applied Data Science Capstone.
